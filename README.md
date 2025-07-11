@@ -190,3 +190,5 @@ This proposal is created with deep respect for:
 
 - [Original Debian Website](https://debian.org)
 - [Live Demo] (https://www.youtube.com/watch?v=muACyKLyg4c)
+
+<img width="1850" height="963" alt="Screenshot from 2025-07-09 06-37-11" src="https://github.com/user-attachments/assets/8a913dfd-6e57-4bd1-951a-20a8b2527155" />
